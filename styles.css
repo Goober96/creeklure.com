@@ -19,6 +19,33 @@ header {
     margin: 0 auto;
 }
 
+.hero-section {
+    text-align: center;/* centers everything inside */
+    position:relative;
+    margin-top: 20px;/*Adjust spacing */
+}
+
+
+.Taglin {
+    font-size:24px;/* Adjust as needed */
+    Margin-bottom: 10px;/* Space between text and image *?
+}
+
+
+.wisconsin-cutout {
+    display: block;
+    margin: 0 auto;/*Centers the image */
+    width: 300px;/* Adjust size as needed */
+    height: auto;
+}
+
+
+@media (max-width:768px) {
+    .wisconsin-cutout {
+        width: 80%; /* Makes it adjust to screen size */
+}
+}
+
 body {
     font-family: Arial, sans-serif; 
     margin: 0;
