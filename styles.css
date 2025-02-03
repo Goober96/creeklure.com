@@ -18,6 +18,12 @@ header {
     display: block;
     margin: 0 auto;
 }
+
+.logo {
+    width: 125px;
+    display: block;
+    margin: 5 auto;
+}
 body {
     font-family: Arial, sans-serif; 
     margin: 0;
