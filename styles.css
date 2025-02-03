@@ -19,6 +19,14 @@ header {
     margin: 0 auto;
 }
 
+.wisconsin-cutout{
+    position: absolute
+    top: 10px; 
+    left: 10px; 
+    width: 120px;
+    z-index: 10;
+}
+
 body {
     font-family: Arial, sans-serif; 
     margin: 0;
